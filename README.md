@@ -6,13 +6,13 @@ UI exercise
 Overview
 --------
 
-We are interested in your approach to the following problems. Each of the given problems have a handful of valid solutions, and possibly other solutions we have not seen, so do not worry about finding "the" solution. It should render correctly in all major browsers and devices.
+We are interested in your approach to the following problems. Each of the given problems have a handful of valid solutions, and possibly other solutions we haven't seen, so don't worry about finding "the" solution. It should render correctly in all major browsers and devices.
 
 Getting started
 ---------------
 Fork this project.
 
-Commit each exercise once you've finished with it not all at once, this way we can see each stage.
+Commit each exercise once you've finished with it.
 
 Exercise #1
 -----------
@@ -34,7 +34,7 @@ Exercise #2
 -----------
 Style the header in whatever way you think suits.
 
-In the content section of index.html build the following design, put your styles in the CSS file and your scripts in the JS file.
+In the content section of index.html build the following design.
 
 ![HTML Layout](http://i.imgur.com/Q9dHL3d.png "HTML Layout")
 
