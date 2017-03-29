@@ -1,3 +1,5 @@
+![Valtech logo](http://i.imgur.com/32Oipl4.png "Valtech logo")
+
 UI exercise
 ==============================
 
