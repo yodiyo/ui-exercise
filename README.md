@@ -6,7 +6,9 @@ UI exercise
 Overview
 --------
 
-We are interested in your approach to the following problems. Each of the given problems have a handful of valid solutions, and possibly other solutions we haven't seen, so don't worry about finding "the" solution. It should render correctly in all major browsers and devices.
+We are interested in your approach to the following problems. Each of the given problems have a handful of valid solutions, and possibly other solutions we haven't seen, so don't worry about finding "the" solution. It should render correctly in all major browsers and devices, from mobile to desktop.
+
+You should try to complete the task in under 1 hour, so plan accordingly and focus on the most important aspects.
 
 Getting started
 ---------------
