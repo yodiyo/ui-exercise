@@ -1,17 +1,80 @@
 /* general */
 
+/* fonts */
+
+body * {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 /* page layout */
 
-#main > * {
+#main {
+    clear: both;
+}
+
+main > * {
     float: left;
 }
 
-#main article {
+#content {
     width: 70%;
-    background: cornflowerblue;    
+    display: flex;
+    flex-wrap: wrap;  
 }
 
-#main aside {
-    width: 30%;
-    background: hotpink;
+aside {
+    width: 28%;
+    padding: 0 1%;
+}
+
+#content article {
+    flex-shrink: 3;
+    margin: 24px;
+    width: 265px;
+}
+
+article h1 {
+    font-family: 'Charter BT Pro Roman', serif;
+    color: #373737;
+    font-size: 24px;
+    margin: 12px 0;
+}
+
+article p {
+    color: #858484;
+}
+
+
+/* navigation */
+
+nav {    
+    border-radius: 6px;
+    background: lightskyblue;
+    margin: 24px 0;
+    padding: 12px 24px;
+}
+
+nav ul {
+    padding: 0;
+    margin-left: 0;
+    display: flex;
+}
+nav ul li {
+    list-style: none;
+    padding-right: 1em;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    padding: 12px 24px;
+    background-color: lightblue;
+    border-radius: 6px;
+}
+
+/* footer */
+
+footer {
+    clear: both;
+    margin: 24px;
 }
