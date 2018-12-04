@@ -1,0 +1,17 @@
+/* general */
+
+/* page layout */
+
+#main > * {
+    float: left;
+}
+
+#main article {
+    width: 70%;
+    background: cornflowerblue;    
+}
+
+#main aside {
+    width: 30%;
+    background: hotpink;
+}
