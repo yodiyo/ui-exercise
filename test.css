@@ -2,16 +2,16 @@
 
 /* page layout */
 
-#main > * {
+main > * {
     float: left;
 }
 
-#main article {
+#content {
     width: 70%;
     background: cornflowerblue;    
 }
 
-#main aside {
+main > aside {
     width: 30%;
     background: hotpink;
 }
